@@ -1,0 +1,97 @@
+#content {
+		padding-top: 50px;
+}
+
+body {
+	font-family: 'Barlow', sans-serif;
+}
+.navbar-default .navbar-nav>li>a {
+	color: #d3e5ff;
+	text-transform: uppercase;
+	//font-family: 'Barlow', sans-serif;
+	padding-bottom: 13px;
+}
+
+.navbar-default .navbar-nav>li>a:hover {
+	border-bottom: 2px solid white;
+	background: #568ce2;
+}
+
+.navbar-default {
+	background: #568ce2;
+}
+
+.navbar-default .navbar-collapse, .navbar-default, .navbar-default .navbar-toggle, .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:active {
+	border-color: #4874ba;
+}
+
+.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
+	background: #4874ba;
+}
+
+.jumbotron{
+	background: #6ab2d8;
+}
+
+.jumbotron h1 {
+	letter-spacing: .2px;
+}
+
+.jumbotron h1, .jumbotron h3 {
+	color: white;
+	font-family: 'Barlow', sans-serif;
+}
+
+.jumbotron h3, .jumbotron p {
+	color: #d3e5ff;
+}
+
+.jumbotron {
+	margin-bottom: 0;
+}
+
+.secondJumbotron {
+	background: #56636b;
+	padding: 2%;
+	padding-bottom: 1%;
+}
+
+.secondJumbotron p {
+	color: #d3e5ff;
+	line-height: 120%;
+	font-size: 120%;
+}
+
+.leftSide {
+	border-right: 2px solid #cbced3;
+}
+
+.leftSide, .rightSide {
+	padding-top: 4%;
+}
+
+.personal ul, ul {
+	list-style-type: none;
+	padding: 0;
+}
+
+.personal .bold {
+	font-weight: 900;
+	line-height: 240%;
+}
+
+.personal .answer {
+	line-height: 240%;
+}
+
+.headings {
+	//padding-left: 6%;
+}
+
+.progress {
+	height: 9px;
+}
+
+.software li{
+	line-height: 20px;
+}
